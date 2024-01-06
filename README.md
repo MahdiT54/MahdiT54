@@ -13,9 +13,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mahditanzim" alt="Layout with last medium posts"  />
-</div>
+<p align="left">✨ UX/UI Enthusiast<br>📚 Programming since 2011<br>♟ Chess Enthusiast<br>🎯 Hackathon hellhound</p>
 
 ###
 
