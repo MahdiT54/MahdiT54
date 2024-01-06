@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mahdi Tanzim!
+
+🔭 I’m currently working on [@OMDbGo](https://github.com/MahdiT54/OMDb-React-Project)
+
+🧰 I use `TypeScript`, `React/Next.js`, `Firebase`, `TailwindCSS`, `Redux`
+
+⏮️ Previously also worked with: `Python` and `Luascript`
+
+📫 How to reach me: `dev [@] mahditanzim [dot] me`
 
 <!--
-**MahdiT54/MahdiT54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**catalinpit/catalinpit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
