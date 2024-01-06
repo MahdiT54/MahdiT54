@@ -1,26 +1,29 @@
-<div align="center">
-  <a href="https://twitter.com/MvhdiTanzim" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
+<div align="left">
   <a href="https://www.linkedin.com/in/mahditanzim/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/channel/UCvqVyZXLe16yGzMHogeHbCw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <a href="https://twitter.com/MvhdiTanzim" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="center">My name is Mahdi and I'm a Web Developer, from New York.</h3>
-
-###
-
-<h1 align="center">My Tech Stack:</h1>
+<h1 align="left">Hello! I'm a Front-End Web Engineer from New York.</h1>
 
 ###
 
 <div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mahditanzim" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<h3 align="left">My Tech Stack:</h3>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" height="30" alt="nextjs logo"  />
@@ -44,11 +47,9 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahdiT54&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1&custom_title=Stats" height="150" alt="stats graph"  />
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahdiT54&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=MahdiT54&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=MahdiT54&theme=kimbie_dark&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ###
