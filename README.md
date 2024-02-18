@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ UX/UI Enthusiast<br>📚 Programming since 2011<br>♟ Chess Enthusiast<br>🎯 1st Place Winner @ HackColumbia 2024</p>
+<p align="left">✨ UX/UI Enthusiast<br>📚 Programming since 2011<br>♟ Chess Enthusiast<br>🎯 1st Place Winner @ HackColumbia 2024<br> https://devpost.com/software/your-congress</p>
 
 ###
 
