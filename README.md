@@ -12,7 +12,7 @@
 <h1 align="left">Hello! I'm a Front-End Web Engineer from New York.</h1>
 
 ###
-<p>I first delved my feet into programming with LuaScript in a popular game known as Roblox back in 2011.  I wanted to develop my own games using 3 dimensional models imported from Cinema4D into Roblox's game creation engine.</p>
+<p>I first delved my feet into programming with LuaScript in a popular game known as Roblox back in 2011.  I wanted to develop my own games using 3 dimensional models imported from Cinema4D into Roblox's game creation engine.  Using LuaScript and Cinema4D, I was able to create games for other Roblox players to enjoy while learning the intricacies of game programming.  I have since then converted that passion for game development into web development, as I now champion the React library to create aesthetically pleasing websites/landing pages for those who wish to level up their business(es) online.</p>
 <p align="left">✨ UX/UI Enthusiast<br>📚 Programming since 2011<br>🎯 1st Place Winner @ HackColumbia 2024<br> https://devpost.com/software/your-congress</p>
 
 ###
