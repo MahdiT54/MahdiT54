@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Mahdi Tanzim terminal profile</title>
+  <desc id="desc">Terminal-style summary showing Mahdi Tanzim's role, education, location, engineering focus, current projects, primary technologies, and Columbia DevFest award.</desc>
+
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="18" y="18" width="1164" height="394" rx="18" fill="url(#panel)" stroke="#30363d" stroke-width="2"/>
+
+  <circle cx="52" cy="49" r="7" fill="#ff5f56"/>
+  <circle cx="76" cy="49" r="7" fill="#ffbd2e"/>
+  <circle cx="100" cy="49" r="7" fill="#27c93f"/>
+
+  <text x="132" y="56" fill="#8b949e" font-size="17" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace">
+    mahdi@github: ~/profile
+  </text>
+
+  <line x1="36" y1="76" x2="1164" y2="76" stroke="#30363d" stroke-width="1"/>
+
+  <rect x="52" y="112" width="270" height="236" rx="14" fill="#0b1220" stroke="#1f6feb" stroke-width="1.5"/>
+  <text x="187" y="214" text-anchor="middle" fill="#58a6ff" font-size="92" font-weight="700" font-family="Inter,Arial,sans-serif">MT</text>
+  <text x="187" y="251" text-anchor="middle" fill="#f0f6fc" font-size="18" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace">
+    software / ai / c++
+  </text>
+  <text x="187" y="285" text-anchor="middle" fill="#7ee787" font-size="16" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace">
+    new york city
+  </text>
+  <text x="187" y="318" text-anchor="middle" fill="#8b949e" font-size="14" font-family="SFMono-Regular,Consolas,Liberation Mono,monospace">
+    founder · builder · learner
+  </text>
+
+  <g font-family="SFMono-Regular,Consolas,Liberation Mono,monospace" font-size="15.5">
+    <text x="360" y="122" fill="#f0883e">Role</text>
+    <text x="472" y="122" fill="#484f58">............</text>
+    <text x="585" y="122" fill="#79c0ff">Software Engineer / AI Solutions Architect</text>
+
+    <text x="360" y="164" fill="#f0883e">Education</text>
+    <text x="472" y="164" fill="#484f58">........</text>
+    <text x="585" y="164" fill="#c9d1d9">BBA, CIS - Data Analytics | Baruch College</text>
+
+    <text x="360" y="206" fill="#f0883e">Location</text>
+    <text x="472" y="206" fill="#484f58">.........</text>
+    <text x="585" y="206" fill="#c9d1d9">New York City</text>
+
+    <text x="360" y="248" fill="#f0883e">Focus</text>
+    <text x="472" y="248" fill="#484f58">...........</text>
+    <text x="585" y="248" fill="#c9d1d9">AI products · full-stack systems · modern C++</text>
+
+    <text x="360" y="290" fill="#f0883e">Building</text>
+    <text x="472" y="290" fill="#484f58">........</text>
+    <text x="585" y="290" fill="#7ee787">FeedPilot · AI Portfolio Twin · Survive2Sunrise</text>
+
+    <text x="360" y="332" fill="#f0883e">Stack</text>
+    <text x="472" y="332" fill="#484f58">...........</text>
+    <text x="585" y="332" fill="#c9d1d9">TypeScript · Next.js · React · C++ · Python · SQL</text>
+
+    <text x="360" y="374" fill="#f0883e">Award</text>
+    <text x="472" y="374" fill="#484f58">...........</text>
+    <text x="585" y="374" fill="#d2a8ff">Best General Hack | Columbia DevFest 2024</text>
+  </g>
+</svg>
