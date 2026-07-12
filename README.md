@@ -1,53 +1,104 @@
-<div align="left">
-  <a href="https://www.linkedin.com/in/mahditanzim/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<div align="center">
+  <img
+    src="./assets/profile-terminal.svg"
+    alt="Terminal-style profile summary for Mahdi Tanzim, a New York software engineer building AI products, full-stack systems, and modern C++ applications"
+    width="100%"
+  />
+</div>
+
+<p align="center">
+  <a href="https://www.mahditanzim.me/">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Mahdi Tanzim portfolio" />
   </a>
-  <a href="https://twitter.com/MvhdiTanzim" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/mahditanzim/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mahdi Tanzim on LinkedIn" />
   </a>
-</div>
+  <a href="https://www.licwebsolutions.com/">
+    <img src="https://img.shields.io/badge/LIC_Web_Solutions-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Long Island City Web Solutions" />
+  </a>
+  <a href="mailto:mahditanzim2@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mahdi Tanzim" />
+  </a>
+</p>
 
-###
+## About
 
-<h1 align="left">Hello! I'm a Front-End Web Engineer from New York.</h1>
+I am a New York-based software engineer and the founder of [LIC Web Solutions](https://www.licwebsolutions.com/). I build production web applications and AI product workflows. I also write modern C++ software.
 
-###
-<p>I first delved my feet into programming with LuaScript in a popular game known as Roblox back in 2011.  I wanted to develop my own games using 3 dimensional models imported from Cinema4D into Roblox's game creation engine.  Using LuaScript and Cinema4D, I was able to create games for other Roblox players to enjoy while learning the intricacies of game programming.  I have since then converted that passion for game development into web development, as I now champion the React library to create aesthetically pleasing websites/landing pages for those who wish to level up their business(es) online.</p>
-<p align="left">✨ UX/UI Enthusiast<br>📚 Programming since 2011<br>🎯 1st Place Winner @ HackColumbia 2024<br> https://devpost.com/software/your-congress</p>
+I earned a **BBA in Computer Information Systems, Data Analytics** from **Baruch College**. My recent work covers streamed LLM interfaces, agentic chat systems, and RSS ingestion. I have also built access-controlled SaaS dashboards, headless CMS architecture, and cross-platform terminal games.
 
-###
+## Selected engineering work
 
-<h3 align="left">My Tech Stack:</h3>
+### [FeedPilot](https://github.com/MahdiT54/AI-Newsletter)
 
-###
+Full-stack AI newsletter SaaS. It ingests RSS feeds, validates sources, and refreshes stale feeds. Articles are deduplicated by GUID before structured newsletter output is streamed to the client. The product includes Clerk authentication, plan-gated access, reusable settings, and persisted generation history.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" alt="typescript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="30" alt="git logo"  />
-    <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
+**Stack:** Next.js 16, React 19, TypeScript, Tailwind CSS, Vercel AI SDK, OpenAI, Clerk, Prisma, MongoDB
 
-</div>
+---
 
-###
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=MahdiT54&locale=en&mode=weekly&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-###
+### [AI Portfolio Twin](https://www.mahditanzim.me/)
+
+Agentic portfolio assistant built with OpenAI ChatKit and the Agents SDK. It retrieves live portfolio context from Sanity. The workflow filters unsupported topics, applies moderation and guardrails, persists threads in Upstash Redis, and rate-limits guest traffic.
+
+**Stack:** Next.js, TypeScript, OpenAI ChatKit, OpenAI Agents SDK, Sanity, GROQ, Upstash Redis
+
+[View the repository](https://github.com/MahdiT54/mahdi-eportfolio-2026)
+
+---
+
+### [Survive2Sunrise](https://github.com/MahdiT54/fnaf-cpp)
+
+Cross-platform C++17 terminal survival game built with ncurses. The codebase separates shared game state, enemy AI, input handling, and terminal rendering into focused modules. CMake builds and packaged releases support Windows and macOS.
+
+**Stack:** C++17, ncurses, CMake, modular game architecture
+
+[Download a release](https://github.com/MahdiT54/fnaf-cpp/releases)
+
+---
+
+### [Your Congress](https://devpost.com/software/your-congress)
+
+Winner of **Best General Hack at Columbia DevFest 2024**. The civic-tech application combines a React interface, Flask services, policy APIs, and semantic analysis to help users explore legislation and connect policies with representatives. I worked on the front end and OpenAI-powered bill matching.
+
+**Stack:** React, JavaScript, Python, Flask, OpenAI, semantic search
+
+[View the team repository](https://github.com/ibrakhimus/columbia-hackathon)
+
+## Engineering toolkit
+
+| Area | Technologies |
+|---|---|
+| **Product engineering** | TypeScript, JavaScript, React, Next.js, Node.js, Tailwind CSS |
+| **AI and data** | OpenAI API, Vercel AI SDK, ChromaDB, Sanity, MongoDB, Firebase, SQL |
+| **Systems** | C++, C, ncurses, CMake |
+| **Delivery** | Git, GitHub Actions, Vercel, Clerk, Prisma, Stripe |
+
+## Current direction
+
+I am focused on shipping FeedPilot, extending my agentic AI portfolio system, and deepening my C++ knowledge through game architecture and reverse-engineering work.
+
+I am open to **software engineering and forward deployed engineering roles**. I am also interested in platform and AI application work.
+
+## GitHub activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=MahdiT54&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=github_dark"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats.vercel.app/api?username=MahdiT54&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=default"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=MahdiT54&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github"
+    alt="Mahdi Tanzim's GitHub statistics"
+  />
+</picture>
+
+---
+
+<p align="center">
+  <strong>Build useful systems. Ship them. Improve the architecture.</strong>
+</p>
